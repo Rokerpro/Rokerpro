@@ -17,6 +17,7 @@
 - Improving problem-solving and algorithmic thinking
 
 ## 📫 Contact
-- GitHub: [github.com/Rokerpro](https://github.com/Rokerpro)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Rokerpro)
+- [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1053995434462433371)
 
 ---
