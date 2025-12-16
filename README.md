@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello
 
-<!--
-**Rokerpro/Rokerpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Student & self-taught developer
+- Interested in **Python**, **app development**, and **problem-solving**
+- I like building things that actually work, not tutorial junk
+- Currently sharpening fundamentals and shipping small but solid projects
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, C
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📈 What I'm Focusing On
+- Writing **clean, readable code**
+- Understanding **why** things work, not just how
+- Improving problem-solving and algorithmic thinking
+
+## 📫 Contact
+- GitHub: [github.com/your-username](https://github.com/your-username)
+
+---
