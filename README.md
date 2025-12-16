@@ -17,6 +17,6 @@
 - Improving problem-solving and algorithmic thinking
 
 ## 📫 Contact
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- GitHub: [github.com/Rokerpro](https://github.com/Rokerpro)
 
 ---
