@@ -7,7 +7,7 @@
 - Currently sharpening fundamentals and shipping small but solid projects
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, C
+- **Languages:** Python, C, Java
 - **Tools:** Git, GitHub, VS Code
 
 
