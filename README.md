@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 - Student & self-taught developer
-- Interested in **Python**, **app development**, and **problem-solving**
-- I like building things that actually work, not tutorial junk
+- Interested in **Python**, **Machine Learning**, and **problem-solving**
+- I like building things 
 - Currently sharpening fundamentals and shipping small but solid projects
 
 ## 🛠️ Tech Stack
